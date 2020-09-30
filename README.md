@@ -1,4 +1,5 @@
-<div align="center">
+#welcome you all  
+  <div align="center">
 <img src="https://cdn.discordapp.com/banners/493130730549805057/d692c501b8ce9d7ceb8eb7a38ffc3edd.jpg?size=512" style="border-radius: 1.3em;" width="512px" draggable="false" >
 
 # PreMiD Website
